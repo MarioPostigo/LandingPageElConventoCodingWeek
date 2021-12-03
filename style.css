@@ -1,0 +1,39 @@
+#top-nav {
+    height: 64px;
+    background-color: aliceblue;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#top-nav-tabs {
+    background-color: aqua;
+    width: 192px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#instagram {
+    height: 24px;
+    width: 24px;
+}
+
+#email {
+    height: 24px;
+    width: 40px;
+}
+
+#action-buttons {
+    height: 32px;
+    background-color: lightcoral;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
